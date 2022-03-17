@@ -13,4 +13,4 @@
 * Медиазапросы
 
 
-[Ссылка на GitHub Pages](https://github.com/KAVtsure/russian-travel)
+[Ссылка на GitHub Pages](https://kavtsure.github.io/russian-travel/)
