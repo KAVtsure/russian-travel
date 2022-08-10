@@ -11,6 +11,6 @@
 * Flex верстка
 * Работа с макетом Figma
 * Медиазапросы
-
+*
 
 [Ссылка на GitHub Pages](https://kavtsure.github.io/russian-travel/)
